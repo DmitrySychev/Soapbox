@@ -6,10 +6,10 @@ let currentUserName;
 
 
 document.addEventListener("DOMContentLoaded", function(e) {
-    const URL = "http://localhost:3000/posts/"
-    const LIKE_URL = "http://localhost:3000/likes/"
-    const COMMENTS_URL = "http://localhost:3000/comments/"
-    const USER_URL = "http://localhost:3000/users/"
+    const URL = "http://127.0.0.1:5432/posts/"
+    const LIKE_URL = "http://127.0.0.1:5432/likes/"
+    const COMMENTS_URL = "http://127.0.0.1:5432/comments/"
+    const USER_URL = "http://127.0.0.1:5432/users/"
 
     function getPosts() {
         const postContainer = document.querySelector(".post-container")
