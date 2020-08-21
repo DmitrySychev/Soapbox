@@ -74,6 +74,6 @@
 #
 production:
   <<: *default
-  database: deploy
+  database: myapp
   username: deploy
   password: 9173
