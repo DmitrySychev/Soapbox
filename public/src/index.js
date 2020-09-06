@@ -6,10 +6,10 @@ let currentUserName;
 
 
 document.addEventListener("DOMContentLoaded", function(e) {
-    const URL = "http://localhost:3000/posts/"
-    const LIKE_URL = "http://localhost:3000/likes/"
-    const COMMENTS_URL = "http://localhost:3000/comments/"
-    const USER_URL = "http://localhost:3000/users/"
+    const URL = "https://murmuring-sierra-68682.herokuapp.com//posts/"
+    const LIKE_URL = "https://murmuring-sierra-68682.herokuapp.com//likes/"
+    const COMMENTS_URL = "https://murmuring-sierra-68682.herokuapp.com//comments/"
+    const USER_URL = "https://murmuring-sierra-68682.herokuapp.com//users/"
 
     function getPosts() {
         const postContainer = document.querySelector(".post-container")
