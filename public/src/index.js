@@ -6,10 +6,10 @@ let currentUserName;
 
 
 document.addEventListener("DOMContentLoaded", function(e) {
-    const URL = "https://murmuring-sierra-68682.herokuapp.com//posts/"
-    const LIKE_URL = "https://murmuring-sierra-68682.herokuapp.com//likes/"
-    const COMMENTS_URL = "https://murmuring-sierra-68682.herokuapp.com//comments/"
-    const USER_URL = "https://murmuring-sierra-68682.herokuapp.com//users/"
+    const URL = "https://murmuring-sierra-68682.herokuapp.com/posts/"
+    const LIKE_URL = "https://murmuring-sierra-68682.herokuapp.com/likes/"
+    const COMMENTS_URL = "https://murmuring-sierra-68682.herokuapp.com/comments/"
+    const USER_URL = "https://murmuring-sierra-68682.herokuapp.com/users/"
 
     function getPosts() {
         const postContainer = document.querySelector(".post-container")
