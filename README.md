@@ -1,8 +1,7 @@
-# mod3-Project-Frontend
+# SoapBox - Blogging App
 
 https://soapbox-blog-app.herokuapp.com/
 
-SoapBox - Blogging App
 
 Blogging app that allows a user to: 
 - post a New blog 
