@@ -2,7 +2,7 @@
 
 https://soapbox-blog-app.herokuapp.com/
 
-Blogging App
+SoapBox - Blogging App
 
 Blogging app that allows a user to: 
 - post a New blog 
