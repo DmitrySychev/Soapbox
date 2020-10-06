@@ -21,8 +21,14 @@ MVP:
 * User avatar with some sort of settings or preferences 
 * Framework integration for styling (bootstrap?)
 * Font Awesome or something similiar for buttons/icons, etc.
-* Project will be live on AWS and accessible
+* Project will be live on Heroku and accessible
 
+---------------------------------------------
+
+Tech:
+
+Frontend - JavaScript
+Backend - Ruby on Rails
 
 
 
