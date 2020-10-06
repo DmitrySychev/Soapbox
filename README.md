@@ -28,5 +28,6 @@ MVP:
 
 Tech:
 
-
+Frontend - JavaScript
+Backend - Ruby on Rails
 
