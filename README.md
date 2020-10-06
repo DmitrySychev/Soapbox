@@ -26,27 +26,5 @@ MVP:
 
 
 
-Strech goals:
-    - Comments
-
-Model:
-    User---<Like>---<Post
-    -Like is the joiner
-
-
-        User:
-        -Name
-        -email
-
-    Post:
-        -Name
-        -Date
-        -Content
-    
-
-    Like:
-        -User associated with like?
-        -postId
-        -userId
 
 
