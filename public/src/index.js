@@ -6,10 +6,10 @@ let currentUserName;
 
 
 document.addEventListener("DOMContentLoaded", function(e) {
-    const URL = "http://127.0.0.1:5432/posts/"
-    const LIKE_URL = "http://127.0.0.1:5432/likes/"
-    const COMMENTS_URL = "http://127.0.0.1:5432/comments/"
-    const USER_URL = "http://127.0.0.1:5432/users/"
+    const URL = "https://soapbox-blog-app.herokuapp.com/posts/"
+    const LIKE_URL = "https://soapbox-blog-app.herokuapp.com/likes/"
+    const COMMENTS_URL = "https://soapbox-blog-app.herokuapp.com/comments/"
+    const USER_URL = "https://soapbox-blog-app.herokuapp.com/users/"
 
     function getPosts() {
         const postContainer = document.querySelector(".post-container")
@@ -522,4 +522,7 @@ document.addEventListener("DOMContentLoaded", function(e) {
 
     
 })
+
+
+
 
